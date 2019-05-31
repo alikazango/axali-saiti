@@ -1,7 +1,8 @@
 .ul1{
-	font-size: 40px;
+	font-size: 80px;
 	color: red;
 	/*background-color: red;*/
+	display: inline;
 }
 .hello{
 	/*height: 200px;*/
@@ -9,4 +10,18 @@
 }
 .li1{
 	/*margin: 10px auto auto 50px;*/
+}
+body{
+	margin: auto auto auto 50px;
+}
+.span1{
+	display: inline;
+	background-color: red;
+}
+.span3{
+	display: inline;
+	width: 700px;
+	background-color: red;
+	font-size: 50px;
+	margin-top: 50px;
 }
