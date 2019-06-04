@@ -25,3 +25,26 @@ body{
 	font-size: 50px;
 	margin-top: 50px;
 }
+.facebook{
+	/*width: 100px;*/
+	height: 100px;
+	display: inline-block;
+}
+.insta{
+	/*width: 100px;*/
+	height: 100px;
+	display: inline-block;
+
+}
+.youtube{
+	/*width: 100px;*/
+	height: 100px;
+	display: inline-block;
+
+}
+.footer{
+	display: inline;
+}
+.one{
+	display: inline;
+}
