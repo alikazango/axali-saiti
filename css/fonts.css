@@ -1,4 +1,8 @@
 @font-face{
-	font-family: 'fontsnino';
-	src: url(../fonts/bpgninomtavruliwebfont.ttf)
+	font-family: 'fonts-nino';
+	src: url(../fonts/bpgninomtavruliwebfont.ttf);
+	src: url(../fonts/bpgninomtavruliwebfont.eot);
+	src: url(../fonts/bpgninomtavruliwebfont.svg);
+	src: url(../fonts/bpgninomtavruliwebfont.woff);
+	src: url(../fonts/bpgninomtavruliwebfont.woff2);
 }
